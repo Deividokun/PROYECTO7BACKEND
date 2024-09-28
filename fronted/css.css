@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3.125rem;
+}
+.anime {
+  width: 300px;
+  height: 300px;
+  border: solid 2px black;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
